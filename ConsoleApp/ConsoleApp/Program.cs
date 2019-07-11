@@ -11,6 +11,8 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Line1-master change");
+
+            Console.WriteLine("Line1-A1");
         }
     }
 }
