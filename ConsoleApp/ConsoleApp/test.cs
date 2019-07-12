@@ -9,5 +9,6 @@ namespace ConsoleApp
     class test
     {
         public string Name { set; get; }
+        public string Addr { set; get; }
     }
 }
