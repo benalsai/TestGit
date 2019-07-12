@@ -12,7 +12,7 @@ namespace ConsoleApp
         {
             Console.WriteLine("Line1-master change");
             Console.WriteLine("Line1-master");
-            Console.WriteLine("Line1-A1");
+            Console.WriteLine("Line1-A1 change");
         }
     }
 }
