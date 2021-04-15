@@ -1,0 +1,7 @@
+D:\_Projects\TestGit\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\_Projects\TestGit\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\_Projects\TestGit\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\_Projects\TestGit\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+D:\_Projects\TestGit\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\_Projects\TestGit\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\_Projects\TestGit\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
